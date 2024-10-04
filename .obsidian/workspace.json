@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semester 1/WSI/Lecture 1.md",
+                "file": "Semester 1/WDZ/Class 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semester 1/WSI/Lecture 1.md",
+                "file": "Semester 1/WDZ/Class 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semester 1/WSI/Lecture 1.md",
+                "file": "Semester 1/WDZ/Class 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,12 +125,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semester 1/WSI/Lecture 1.md"
+                "file": "Semester 1/WDZ/Class 1.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -149,9 +148,11 @@
   },
   "active": "6068f72cd720562d",
   "lastOpenFiles": [
-    "Semester 1/AM/Calculus tutorials.md",
     "Semester 1/WSI/Lecture 1.md",
+    "Semester 1/WDZ/Class 1.md",
     "Semester 1/WDZ/Lecture 1.md",
+    "Semester 1/AM/Lecture 1.md",
+    "Semester 1/AM/Calculus tutorials.md",
     "Semester 1/WSI",
     "Semester 1/Images/Untitled.canvas",
     "Semester 1/Images",
