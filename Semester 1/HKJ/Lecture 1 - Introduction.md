@@ -22,7 +22,7 @@ Objectives:
 ##### Islands:
 - Honshu
 - Kyushu
-- Hokkaidou
+- Hokkaido
 - Shikoku
 Area: 377,975 km^2
 
