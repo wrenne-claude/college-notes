@@ -1,4 +1,4 @@
-### Class 1
+# Class 1
 Wednesday, 2 October
 Krzysztof Borkowski
 
@@ -57,3 +57,61 @@ $h(g(f(x)))$
 $x$ -> $\sin(x-1)$ -> $\sqrt{\sin(x-1)}$ -> $\log_{5}(\sqrt{\sin{x-1}+1})$ 
 $x$ -> $\log_{5}(x+1)$ -> $\sqrt{\log_{5}(x+1)}$ -> $\sin(\sqrt{\log_{5}(x+1)-1})$
 
+---
+# Class 2
+Limit of quotient = quotient of limits
+$\lim\frac{a_{n}}{b_{n}}=\frac{\lim a_{n}}{\lim a_{n}}$
+
+$\lim\limits_{n\mapsto \infty}f(a_{n})=f(a)$
+
+If the powers are the same, the limit will be a quotient of the coefficients next to the highest powers
+
+b) $a_{n}=\frac{\sqrt{n^{2}+n}+1}{2n}$ write out $a_{2}$ and $a_{2n}$
+$a_{2}=\frac{\sqrt{6}+1}{4}$
+$a_{2n}=\frac{\sqrt{2n^{2}+2n}+1}{4n}$
+
+d) $a_{k-1}=(k+1)^{k}$ write out $a_{4}$ and $a_{1+n}$
+$a_{4}=(5+1)^{5}=6^{5}=...$
+$a_{1+n}=((2+n)+1)^{2+n}=(3+n)^{2}*(3+n)^{n}$
+
+Find the limits:
+a) $\lim\limits_{k\mapsto\infty}\frac{3k^{1000}+4k^{97}+97k^{4}}{4k^{9997}+97k^{4}}$
+$\frac{k^{1000}(3+4\frac{k^{97}}{k^{1000}}+97\frac{k^{4}}{k^{1000}})}{k^{9997}(4+97\frac{k^{4}}{k^{9997}})}=\frac{3+4\frac{k^{97}}{k^{1000}}}{k^{8991}(4+97\frac{k^{4}}{k^{9997}})}$
+
+c) $\lim\limits_{n\mapsto\infty}\arcsin(\log_{e}(e^{\frac{n-1}{n+1}}))$
+$\arcsin(\frac{n-1}{n+1})=\arcsin(1)$
+$\frac{n(1-\frac{1}{n})}{n(1+\frac{1}{n})}$
+
+f) $\lim\limits_{n\mapsto\infty}\frac{3n}{\sqrt{n^{2}-n}-\sqrt{n^{2}+n}}$
+formula $(a-b)(a+b)=a^{2}-b^{2}$  &  $a-b=\frac{a^{2}-b^{2}}{a+b}$
+$$\lim\limits_{n\mapsto\infty}\frac{3n}{\sqrt{n^{2}-n}-\sqrt{n^{2}+n}}=
+\lim\limits_{n\mapsto\infty}\frac{3n}
+{\frac{n^{2}-n-(n^{2}+n)}{\sqrt{n^{2}-n}+\sqrt{n^{2}+n}}}=
+\frac{3n}{\frac{-2n}{\sqrt{n^{2}-n}+\sqrt{n^{2}+n}}}=
+\frac{3n*(\sqrt{n^{2}-n}+\sqrt{n^{2}+n})}{-2n}$$
+---
+---
+$$\lim\limits_{k\mapsto\infty}
+(7^{k}-6^{k}-5^{k})=
+\lim\limits_{k\mapsto\infty}7^{k}
+(1-\frac{6^{k}}{7^{k}}-\frac{5^{k}}{7^{k}})=\infty$$
+Where $\frac{6^{k}}{7^{k}}=(\frac{6}{7})^{k}$
+
+---
+**Find the limit(s)**
+$$a_{n}=\frac{(n^{4}+4)n!+(n-1)!}{n(n+1)!}$$
+$$\lim\limits_{n\mapsto\infty}
+\frac{(n^{4}+4)n!+(n-1)!}{n(n+1)!}=
+\lim\limits_{n\mapsto\infty}
+\frac{(n^{4}+4)n(n-1)!+(n-1)!}{n*(n-1)!*n(n+1)}=
+\lim\frac{(n-1)![(n^{4}+4)n+1]}{(n-1)!*n^{2}(n+1)}$$
+factorials:
+	$n!=1*2*3*...*(n-1)*n$
+	$(n-1)!=1*2*3*...*(n-1)$
+	$(n+1)!=1*2*3*...*(n-1)n(n+1)$
+
+---
+Limit of n-th root of a positive number = 1
+e.g. for $8\sqrt[n]{34\frac{1}{2}}$ the limit is 1
+
+---
