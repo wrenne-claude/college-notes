@@ -13,7 +13,12 @@ To address these challenges, the **hierarchical database model** emerged in the 
 
 In the 1970s, the **network database model** was introduced, allowing more flexible connections between data elements. This model, known as the CODASYL DBTG (Conference on Data System Languages Database Task Group) model, used a graph structure where records could have multiple relationships. Despite offering more flexibility than the hierarchical model, it was still complex to manage and required specialized knowledge.
 
+---
+
+### Edgar F. Codd
 The significant breakthrough came in 1970 when **Edgar F. Codd**, a computer scientist at IBM, introduced the concept of the **relational database model**. Codd's revolutionary idea was to organize data into tables (relations) with rows and columns, where each table represented an entity, and data could be linked through common attributes (keys). This model allowed for more flexibility, easier data manipulation, and a more intuitive way of representing complex relationships, leading to the development of the **Structured Query Language** (SQL) for interacting with the data. This concept laid the foundation for modern relational databases.
+
+---
 
 ### First relational databases
 The first database to implement Codd's relational model and some of his rules appeared in the 1970s and early 1980s. Here are a few of the pioneering relational database systems:
