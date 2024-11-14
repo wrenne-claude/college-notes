@@ -11,22 +11,22 @@ Most databases operate using a **client-server architecture**, which means they 
 ### Different dialects of SQL
 SQL has various *dialects*, which are adaptations of the core SQL language by different RDBMS. While all SQL dialects follow the standard ANSI/ISO SQL syntax, many systems extend or modify the language to support unique features or optimizations.
 #### MySQL
-+ **Overview**: MySQL is one of the most popular open-source db systems, often used in web dev.
++ **Overview**: MySQL is one of the most popular open-source db systems, often used in web dev. ^11ec2b
 + **Unique features**:
 	+ **AUTO_INCREMENT**: MySQL provides automatic numbering for primary keys using this feature
 	+ **LIMIT**: Used to restrict the number of returned rows in a query
 	+ **REPLACE INTO**: An extension that either inserts or replaces existing rows.
 + **Use case**: Widely used for websites and web apps.
 #### PostgreSQL
-+ **Overview**: Known for its advanced features and standards compliance, PostgreSQL is an open-source, object-relational database.
++ **Overview**: Known for its advanced features and standards compliance, PostgreSQL is an open-source, object-relational database. ^c98a94
 + **Unique features**:
 	+ **JSON and JSONB**: Advanced support for storing and querying JSON data
 	+ **WINDOW FUNCTIONS**: PostgreSQL includes sophisticated analytic functions like `RANK()` and `ROW_NUMBER()`.
 	+ **RETURNING Clause**: Allows returning data directly after an `INSERT`, `UPDATE`, or `DELETE` statement.
 + **Use case**: Preferred for applications needing complex queries, data integrity, and high concurrency.
 
-#### Microsoft SQL Server (TSQL)
-+ **Overview**: T-SQL (Transact-SQL) is the proprietary extension of SQL used by Microsoft SQL Servers.
+#### Microsoft SQL Server (T-SQL)
++ **Overview**: T-SQL (Transact-SQL) is the proprietary extension of SQL used by Microsoft SQL Servers. ^7bcd1e
 + **Unique features**:
 	+ **TOP**: Like MySQL's `LIMIT`, used to specify how many rows to return
 	+ **TRY-CATCH**: For handling errors within SQL code
