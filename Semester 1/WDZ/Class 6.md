@@ -1,81 +1,93 @@
-## Organizational structure
-+ **Organizational structure** - the formal arrangement of task, communication and authority relationships that influence and control how people co-ordinate and conduct their work
-+ **Organigram** or an organization chart - a diagram which consists of **boxes** (representing groupings, positions or other structural units) and **lines** (depicting reporting relationships)
+## Leadership
 
-+ **Span of control** - the number of subordinates that a manager or supervisor can directly control
-+ **Unity of command**
+^2544c9
 
-+ **Flat**  (for example a 3-level hierarchy) / **Tall** (e.g. 7-level) organizational structure types
-
-#### Differences between flat and tall structures
-
-|           Structure           |                                      FLAT                                       |                                      TALL                                       |
-|:-----------------------------:|:-------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------:|
-|      **Span of control**      |     **Wide** span of control (each manager has to manage many subordinates)     | **Narrow** span of control (each manager has to manage only a few subordinates) |
-|  **Control of subordinates**  |                                  Loose control                                  |                                  Close control                                  |
-|           **Cost**            |                           Less costly (less managers)                           |                             Costly (many managers)                              |
-|       **Communication**       | Communication will not be distorted and/or delayed because there are few layers |   Communication may be distorted and/or delayed because there are many layers   |
-|      **Decision making**      |                               Quick (few layers)                                |                              Slower (more layers)                               |
-| **Promotional opportunities** |                                      Fewer                                      |                                      More                                       |
++ The ability to influence people toward the attainment of organizational goals. ^7d0c6b
++ Management and leadership are both important to organizations. Effective managers have to be leaders, too, because distinctive qualities are associated with management and leadership that provide different strengths for the organization.
 
 ---
-## Ex. 1
-+ Darren = manager of a branch of a well known tool hire firm
-+ Anna = assistant manager, reports to Darren
-+ Anna delegates to the department managers (Jane, Tom, Omar)
-+ Felicity, Matt, Ryan report to Jane
-+ Rachel, Sally, Pete are accountable to Tom
-+ Omar is responsible for John, Mark, Sam and James
----
-+ Draw chart
-+ Who has the largest span of control?
-+ How many layers?
-+ Who does Tom delegate to?
-+ Tall or flat structure?
-+ Why? ^^^
-![[Pasted image 20241108124115.png]]
----
-## Functional structure
-+ **Advantages**
-	+ Critical mass of a functional activity that supports efficiency within a function
-	+ Skill development
-+ **Disadvantages**
-	+ Relatively slow speed of response to environmental change
-	+ Lower innovation and change readiness
-	+ Frequent decision overload at the top of the function
-	+ Inter-functional communication and co-ordination problems due to different and even conflicting objectives and orientations (**silo effect**)
-## Divisional structure
-+ Results in multiple sub-units that are focused on different products, regions and markets or market segments.
-The divisional structure is particularly appropriate where there are a number of very different product or service offerings, significantly different market conditions for different offerings, or large geographic dispersion
-+ **Advantages**
-	+ Fast response to changing environmental conditions
-	+ Customer satisfaction is typically higher
-+ **Disadvantages**
-	+ Duplication of functions across division
-	+ Poorer co-ordination across divisional boundaries
-	+ Lower technical specialization and specialist competence in divisional functions
-	+ Limitations to integration and standardization across divisions
-## Process oriented structure
-+ Seeks to align the structure of the organization with the workflows and core processes that aim at addressing and meeting customer needs
-+ **Advantages**
-	+ Flexible and responsive reactions to customer demands
-	+ Minimize the disconnects in flows of information, material or people
-	+ Provides potentially satisfying work environment
-	+ Customer satisfaction is typically higher
-+ **Disadvantages**
-	+ The level of failed applications is high (too complex to apply easily, the costs can outweigh the benefits)
-+ **Hybrid structures** - these apply to more than one of the departmentation principles simultaneously. The best known of which is the **matrix** structure
+#### Manager vs Leader
 
-## Mechanistic and organic organizational forms
-+ **Mechanistic organizations** - these provide a blueprint of an organizational structure that is often compared to a machine: all the parts are clearly aligned to work together in prescribed, predetermined and stable ways.
-+ **Organic organizations** - sometimes referred to as organismic organizations. Reflects an organizational form emerging in fluid and relatively unpredictable situations. It is typified by a high level of flexibility in job responsibilities, also incorporating high levels of technical expertise at the lower level of the organization and recognition of the value of individual contribution.
-#### Differences:
+^40ea21
 
-| Organizational form                   | MECHANISTIC                      | ORGANIC                        |
-| ------------------------------------- | -------------------------------- | ------------------------------ |
-| **Nature of tasks**                   | Routine                          | Nonroutine                     |
-| **Degree of standardization**         | High                             | Low                            |
-| **Degree of formalization**           | High                             | Low                            |
-| **Differentation and specialization** | Low to medium                    | Medium to high                 |
-| **Hierarchy of authority**            | Tall with narrow span of control | Flat with wide span of control |
-| **Decision making**                   | Centralized                      | Decentralized                  |
+| Manager qualities                                                                                                                                                             | Leader qualities                                                                                                                                                        |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Rational,<br>Consulting,<br>Persistent,<br>Problem solving,<br>Tough-minded,<br>Analytical,<br>Structured,<br>Deliberate,<br>Authoritative,<br>Stabilizing,<br>Position power | Visionary,<br>Passionate,<br>Creative,<br>Flexible,<br>Inspiring,<br>Innovative,<br>Courageous,<br>Imaginative,<br>Experimental,<br>Initiates change,<br>Personal power |
+
+^d36b33
+
+---
+## Task
+
+| Manager                                                              | Leader                                                                               |
+| -------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| 1, 3, 4, 5, 6, 8, 11, 12, 13, 15, 16, 17, 18, 19, 24, 25, 27, 28, 32 | 1, 2, 3, 6, 7, 9, 10, 13, 14, 15, 16, 17, 18, 20, 21, 22, 23, 25, 26, 29, 30, 31, 32 |
+
+---
+## Types of leadership power
+
+^9c6b49
+
++ **Coercive power:** based on fear
++ **Connection power:** based on links with important people
++ **Expert power:** based on the leader's skill and knowledge
++ **Information power:** based on access to information
++ **Legitimate power:** based on position
++ **Referent power:** based on personal traits
++ **Reward power:** based on rewards, pay, promotion, or recognition
+
+## The leadership grid
+![[Pasted image 20241115125832.png]]
+
+#### Leadership Self Assessment Questionnaire
+Answer the questions on a scale from 0 (never) to 5 (always)
+**People:**
+1. I encourage my team to participate when it comes to decision-making and I try to implement their ideas and suggestions
+2. I enjoy coaching people on new tasks and procedures
+3. I encourage my employees to be creative about their job
+4. I enjoy reading articles, books, and journals about training, leadership, and psychology; and then putting what I have read into action
+5. When correcting mistakes, I do not worry about jeopardizing relationships
+6. I enjoy explaining the intricacies and details of a complex task or project to my employees
+7. Nothing is more important than building a great team
+8. I honor other people's boundaries
+9. Counseling my employees to improve their performance or behavior is second nature to me
+**Task:**
+1. Nothing is more important than accomplishing a goal or task
+2. I closely monitor the schedule to ensure a task or project will be completed in time
+3. The more challenging a task is, the more I enjoy it
+4. When seeing a complex task through to completion, I ensure that every detail is accounted for
+5. I find it easy to carry out several complicated tasks at the same time
+6. I manage my time very efficiently
+7. Breaking large projects into small manageable tasks is second nature to me
+8. I enjoy analyzing problems
+9. I enjoy reading articles, books, and trade journals about my profession; and then implementing the new procedures I have learned
+**Results:**
++ **Country Club:** High relationship and low task
++ **Team Leader:** High task and high relationship
++ **Impoverished:** Low relationship and low task
++ **Authoritarian:** High task and low relationship
+
+---
+Test
+1. **A leader:**
+	1. Has a short range perspective
+	2. ==Asks what and why==
+	3. Does things right
+	4. Is risk-cautious
+2. **What follower characteristic does Hersey & Blanchard's situational leadership theory suggest a leader has to adjust their behavior to?**
+	+ ==Subordinate readiness==
+3. **Joe was 15 minutes late returning from lunch break today. Jill, his supervisor, tells Joe he must stay 15 minutes extra after work today to make it up. Jill is using ....... power**
+	+ ==legitimate==
+	+ coercive
+	+ referent
+	+ reward
+4. **What is expert power?**
+	+ The ability to apply power expertly
+	+ ==It's based upon the perception that any member of an org has a high level of knowledge or a specialized set of skills that is relevant to their job==
+	+ A manager who highers expert employees to support his management skills
+	+ A manager who hires outside consulting
+5. **Individuals become leaders based on their:**
+	+ ==Personal qualities==
+	+ Position in a company
+	+ Professional qualifications
+	+ Education and training

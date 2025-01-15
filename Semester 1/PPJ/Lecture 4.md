@@ -4,7 +4,7 @@ expr1 ^ expr2
 is true only if expr1 and expr2 are different from each other
 
 The **conditional expression** is the only *ternary* operator, that is an operator with three operands. It looks like this:
-cond ? expr1 : expr2
+#### cond ? expr1 : expr2
 Here **cond** is a **boolean**. If it is **true**, then the value of expr1 will become the value of the whole expression and expr2 will not be evaluated; if **cond** is false, then the value of expr2 becomes the value of the whole expression and expr1 will not be evaluated. The simplest example would be: (a and b are **ints**):
 `{java icon} int mx = a > b ? a : b;`
 which initializes mx with the bigger of a and b values. The ternary operator resembles the **if...else** if construct, but is *not* equivalent! In particular, the expression `b ? e1 : e2` has a value, while **if...else** if has not. For example,

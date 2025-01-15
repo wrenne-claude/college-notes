@@ -1,7 +1,10 @@
 The history of management can be traced back to 5000 B.C. when the agriculture revolution was at the initial stage
 In Egypt, in 2900 B.C., the pyramids were built in a highly organised and coordinated manner
 
-Schools of management thought
+## Schools of management thought
+
+^ca340a
+
 + Classical school of Management
 	+ Scientific Management
 	+ Administrative Management
@@ -15,7 +18,7 @@ Schools of management thought
 + Monitor worker performance, and provide instructions and supervision to ensure that they're using the most efficient ways of working
 + Allocate the work
 
-#### Frederick Winslow Taylor
+ Frederick Winslow Taylor
 + The optimal weight that a worker should lift in a shovel is 21 pounds.
 + The shovel should be sized so that it would hold 21 pounds of the substance being shoveled
 + The firm provided the workers with optimal shovels
@@ -44,16 +47,18 @@ If you don't have the power and authority to engage in tasks necessary for achie
 ### Human-relation school of Management
 Elton Mayo, Abraham Maslow, Douglas McGregor
 
+Based on increasing efficiency by providing a better environment for the laborers.
+
 Theory X - pessimistic, workers need to be pushed
-Theory Y - optimistic, decentralized and participative management - encourages a collaborative and trust-based relationship between workers and managers
+Theory Y - optimistic, decentralized and participative management - encourages a collaborative and trust-based relationship between workers and managers ^857b46
 
 ### Quantitative School
 Systems perspective:
-+ **Entropy** is the tendency of systems to deteriorate or break down over time
-+ **Synergy** is the ability of the whole system to equal more than the sum of its parts
++ **Entropy** is the tendency of systems to deteriorate or break down over time ^30bc9c
++ **Synergy** is the ability of the whole system to equal more than the sum of its parts ^7bde5c
 
 ### Contingency School
-+ Can be summarized as "it all depends"
++ Can be summarized as **"it all depends"**
 + The appropriate management actions and approaches depend on the situation
 + Managers with a contingency view use a flexible approach
 

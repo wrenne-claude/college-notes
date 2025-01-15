@@ -30,6 +30,9 @@ Topics:
 
 ---
 ## Managerial functions:
+
+^d53ae4
+
 + **Planning** - managers have to plan what they want to accomplish and develop specific actions in order to reach those goals
 + **Organizing** - managers must figure out how many people are needed to get the jobs and tasks done. Generally, we talk about what kind of structure will be put in place to get these tasks done
 + **Leading** - managers must supervise, motivate, train, coach, hire and assess employees.
@@ -76,6 +79,9 @@ Controlling - monitoring, analyzing, re-purposing
 
 ---
 ## Managerial roles
+
+^ba37a6
+
 + **Interpersonal** - *provide information, receive feedback*
 	+ **Figurehead**
 		+ Perform ceremonial and symbolic duties inside the organization, receive visitors, give awards to employees
